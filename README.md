@@ -5,9 +5,7 @@ Introduction:
 
 WordLink is a fast-paced word association game designed to entertain and stimulate your mind. The game is simple yet engaging: link words together based on the last letter of the previous word to create a chain of associations. Whether you're a casual player looking for a quick mental exercise or a word game enthusiast seeking a new challenge, WordLink offers endless entertainment. Sharpen your linguistic skills, expand your vocabulary, and compete against yourself to achieve new high scores!
 
-Deployed Site: WordLink
-Final Project Blog Article: WordLink Blog
-Author(s) LinkedIn: John Doe
+Author(s) LinkedIn: Hachem Maadalla
 
 Installation:
 
