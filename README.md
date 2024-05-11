@@ -13,7 +13,7 @@ Installation:
 
 To install WordLink, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/wordlink.git
+Clone the repository: git clone https://github.com/HachemMaadalla/Project-Name-WordLink
 Navigate to the project directory: cd wordlink
 Install dependencies: npm install
 Usage:
